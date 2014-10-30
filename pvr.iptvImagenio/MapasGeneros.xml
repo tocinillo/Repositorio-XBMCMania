@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generos>
+<Genero Nombre="NOTICIAS" Mapa="32" />
+<Genero Nombre="TIEMPO" Mapa="32" />
+<Genero Nombre="ACCIÓN" Mapa="16" />
+<Genero Nombre="HUMOR" Mapa="48" />
+<Genero Nombre="DRAMA" Mapa="16" />
+<Genero Nombre="MAGAZINE" Mapa="32" />
+<Genero Nombre="REPORTAJES" Mapa="32" />
+<Genero Nombre="COMEDIA" Mapa="48" />
+<Genero Nombre="CULTURA/ESPECTÁCULOS" Mapa="48" />
+<Genero Nombre="COCINA" Mapa="112" />
+<Genero Nombre="ACTUALIDAD" Mapa="32" />
+<Genero Nombre="MODA" Mapa="112" />
+<Genero Nombre="CORAZÓN" Mapa="48" />
+<Genero Nombre="ESPECIALES Y GALAS" Mapa="48" />
+<Genero Nombre="ARTE Y ESPECTÁCULOS" Mapa="112" />
+<Genero Nombre="SORTEOS" Mapa="48" />
+<Genero Nombre="ANTROPOLÓGICOS" Mapa="144" />
+<Genero Nombre="HISTÓRICO / POLÍTICO" Mapa="128" />
+<Genero Nombre="NATURALEZA Y ANIMALES" Mapa="144" />
+<Genero Nombre="EDUCATIVOS" Mapa="144" />
+<Genero Nombre="CLÁSICA" Mapa="96" />
+<Genero Nombre="INFORMATIVOS" Mapa="32" />
+<Genero Nombre="PROGRAMAS" Mapa="48" />
+<Genero Nombre="TOROS" Mapa="64" />
+<Genero Nombre="CONCURSOS" Mapa="48" />
+<Genero Nombre="POLICIACAS" Mapa="16" />
+<Genero Nombre="CINE" Mapa="16" />
+<Genero Nombre="NOTICIAS DEPORTIVAS" Mapa="64" />
+<Genero Nombre="POKER" Mapa="64" />
+<Genero Nombre="VIDEOCLIPS" Mapa="96" />
+<Genero Nombre="REALITY SHOW" Mapa="48" />
+<Genero Nombre="ANIMACIÓN" Mapa="80" />
+<Genero Nombre="SUSPENSE / THRILLER" Mapa="16" />
+<Genero Nombre="PARAPSICOLOGÍA" Mapa="48" />
+<Genero Nombre="TELETIENDA" Mapa="48" />
+<Genero Nombre="VARIEDADES" Mapa="48" />
+<Genero Nombre="VIAJES Y AVENTURAS" Mapa="160" />
+<Genero Nombre="CIENCIA FICCIÓN" Mapa="16" />
+<Genero Nombre="CONCIERTO" Mapa="96" />
+<Genero Nombre="DANZA" Mapa="96" />
+<Genero Nombre="FANTASÍA" Mapa="16" />
+<Genero Nombre="SUCESOS" Mapa="32" />
+<Genero Nombre="BRICOLAJE Y DECORACIÓN" Mapa="160" />
+<Genero Nombre="FÚTBOL" Mapa="64" />
+<Genero Nombre="MISTERIO / TERROR" Mapa="16" />
+<Genero Nombre="MEDIO AMBIENTE" Mapa="144" />
+<Genero Nombre="CIENCIA FICCIÓN / FANTÁSTICO" Mapa="16" />
+<Genero Nombre="PROFESIONES" Mapa="16" />
+<Genero Nombre="AVENTURAS" Mapa="16" />
+<Genero Nombre="INFANTIL / JUVENIL" Mapa="80" />
+<Genero Nombre="JUVENILES" Mapa="80" />
+<Genero Nombre="ACCIÓN Y AVENTURAS" Mapa="16" />
+<Genero Nombre="TERROR" Mapa="16" />
+<Genero Nombre="TELENOVELA" Mapa="16" />
+<Genero Nombre="BIOGRÁFICOS" Mapa="112" />
+<Genero Nombre="INFANTIL / FAMILIAR" Mapa="80" />
+<Genero Nombre="CIENCIA Y TECNOLOGÍA" Mapa="144" />
+<Genero Nombre="INFANTIL" Mapa="80" />
+<Genero Nombre="BOXEO/LUCHA/ARTES MARCIALES" Mapa="64" />
+<Genero Nombre="OESTE" Mapa="16" />
+<Genero Nombre="SALUD Y BELLEZA" Mapa="112" />
+<Genero Nombre="MUSICAL" Mapa="96" />
+<Genero Nombre="MÚSICA" Mapa="96" />
+<Genero Nombre="BÉLICO" Mapa="16" />
+<Genero Nombre="CINE NEGRO" Mapa="16" />
+<Genero Nombre="MOTOR" Mapa="64" />
+<Genero Nombre="CICLISMO" Mapa="64" />
+<Genero Nombre="OTROS DEPORTES" Mapa="64" />
+<Genero Nombre="RUGBY / FUTBOL AMERICANO" Mapa="64" />
+<Genero Nombre="TENIS" Mapa="64" />
+<Genero Nombre="BALONCESTO" Mapa="64" />
+<Genero Nombre="GOLF" Mapa="64" />
+<Genero Nombre="BALONMANO" Mapa="64" />
+<Genero Nombre="ATLETISMO" Mapa="64" />
+<Genero Nombre="VIAJES" Mapa="160" />
+<Genero Nombre="DEPORTIVOS" Mapa="64" />
+<Genero Nombre="DEBATE" Mapa="128" />
+<Genero Nombre="ENTREVISTAS" Mapa="32" />
+<Genero Nombre="ECONOMÍA" Mapa="128" />
+<Genero Nombre="TALK SHOW" Mapa="48" />
+<Genero Nombre="RELIGIOSO" Mapa="128" />
+<Genero Nombre="TERTULIA" Mapa="48" />
+<Genero Nombre="ENTRETENIMIENTO" Mapa="48" />
+<Genero Nombre="POPULAR" Mapa="48" />
+<Genero Nombre="WESTERN" Mapa="16" />
+<Genero Nombre="HISTÓRICO" Mapa="128" />
+<Genero Nombre="CULTURA Y OCIO" Mapa="112" />
+<Genero Nombre="DEPORTES NÁUTICOS" Mapa="64" />
+<Genero Nombre="NATACIÓN" Mapa="64" />
+<Genero Nombre="ADULTOS" Mapa="16" />
+</Generos>

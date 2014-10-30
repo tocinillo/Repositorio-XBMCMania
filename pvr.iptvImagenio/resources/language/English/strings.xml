@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+<string id="30000">General</string>
+<string id="30100">Directorio de grabación</string>
+<string id="30101">Servidor canales</string>
+<string id="30103">Bytes de Buffers</string>
+<string id="30104">Cargar todos los canales</string>
+<string id="30105">Modo debug</string>
+<string id="30106">Activar DLNA</string>
+<string id="30200">Buscar canales</string>
+<string id="30500">Sin conexión con el servidor de Imagenio</string>
+<string id="30501">Actualizando canales desde Imagenio</string>
+<string id="30502">Lista de canales actualizada</string>
+<string id="30503">Título original:</string>
+<string id="30504">Año:</string>
+<string id="30505">País:</string>
+<string id="30506">Descripción:</string> 
+<string id="30507">Género:</string> 
+<string id="30508">Guionista:</string> 
+<string id="30509">Director:</string> 
+<string id="30510">Sin información</string> 
+<string id="30511">Actores:</string> 
+<string id="30512">Productor:</string> 
+<string id="30513">Aplicando configuración alternativa</string>
+<string id="31000">Configuración Alternativa</string>
+<string id="31001">IP Inicio</string>
+<string id="31002">Puerto de Inicio</string>
+<string id="31003">Zona Geografica</string>
+<string id="31004">Diferencia Horaria</string>
+</strings>

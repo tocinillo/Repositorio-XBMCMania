@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<addon  
+  id="pvr.iptvImagenio"  
+  version="1.0.12"  
+  name="PVR IPTV Imagenio"  
+  provider-name="Victor Juidiaz">  
+  <requires>  
+  </requires>  
+  <extension  
+     point="xbmc.pvrclient"  
+     library_linux="XBMC_IPTV_Imagenio.pvr"  
+     library_wingl="XBMC_IPTV_Imagenio_win32.dll"  
+     library_windx="XBMC_IPTV_Imagenio_win32.dll"  
+     library_android="XBMC_IPTV_Imagenio.so"  
+     library_osx="XBMC_IPTV_Imagenio_osx.pvr"/>  
+  <extension point="xbmc.addon.metadata">  
+    <summary lang="en">XBMC PVR addon for Imagenio Movistart</summary>  
+    <summary lang="es">XBMC PVR para imagenio Movistart</summary>  
+    <description lang="en">IPTV PVR Client support streaming of Live TV for multicast/unicast sources and EPG.</description>  
+    <description lang="es">Cliente IPTV para Imagenio television.</description>  
+    <disclaimer lang="en">This is unstable software The authors are in no way responsible for failed playings, incorrect EPG times, wasted hours, or any other undesirable effects.</disclaimer>  
+    <disclaimer lang="es">Este software no es estable. No nos hacemos responsables de su correcto funcionamiento.</disclaimer>  
+    <platform>all</platform>  
+  </extension>  
+</addon>  

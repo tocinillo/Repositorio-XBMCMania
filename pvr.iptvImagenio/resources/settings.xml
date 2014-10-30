@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <!-- General -->
+<category label="30000">
+      <setting id="servidorCanales" type="text" label="30101" default="127.0.0.1"/>
+	  <setting id="recordfolder" type="folder" label="30100" source="auto" option="writeable"/>
+	  <setting id="BUFSIZE" type="number" label="30103" default="250000"/>
+	  <setting id="todoslosCanales" type="bool" label="30104" default="false"/>
+	  <setting id="ActivarDLNA" type="bool" label="30106" default="true"/>
+	  <setting id="ModoDebug" type="bool" label="30105" default="false"/>
+</category>
+<category label="31000">
+   <setting id="servidorInicio" type="text" label="31001" default="239.0.2.129"/>
+   <setting id="PuertoInicio" type="number" label="31002" default="3937"/>
+   <setting id="ZonaGeografica" type="enum"  label="31003" values="Galicia|Madrid|Cataluna|Andalucia|Aragon|Asturias|Cantabria|Castilla la Mancha|Castilla y Leon|Comunidad Valenciana|Extremadura|Islas Baleares|Islas Canarias|La Rioja|Murcia|Navarra|Pais Vasco" default="1"/>
+   <setting id="DiferenciaHoraria" type="number" label="31004" default="1"/>
+</category>
+</settings>
